@@ -1,8 +1,3 @@
-Here is a professional `README.md` for your Laravel Products-Categories CRUD project with Tailwind CSS:
-
----
-
-````markdown
 # 🛍️ Laravel Products & Categories CRUD Application
 
 This is a full-featured Laravel CRUD application that manages **Products** and **Categories** with a **many-to-many relationship**, styled using **Tailwind CSS**. It provides a clean and responsive UI for product management in modern web applications.
