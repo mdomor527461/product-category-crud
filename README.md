@@ -17,12 +17,9 @@ This is a full-featured Laravel CRUD application that manages **Products** and *
 
 ## 🧰 Tech Stack
 
-- **Framework**: Laravel 11
+- **Framework**: Laravel 12
 - **Frontend**: Blade Templates, Tailwind CSS
-- **Database**: MySQL (or any Laravel-supported DB)
-- **Package Manager**: NPM
-- **Tools**: Laravel Artisan CLI, Eloquent ORM
-
+- **Database**: MySQL
 ---
 ## ⚙️ Installation & Setup
 
